@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "38911450968",
+    "project_id": "ocx-phone-auth",
+    "storage_bucket": "ocx-phone-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38911450968:android:f8dac3a5ed5bfa76658f2d",
+        "android_client_info": {
+          "package_name": "com.example.ocx_api_testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38911450968-s65r5p0pre0vcncrf6rnm4n85eend0ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeprq7bUuQMik9gdfXbtv7dLv9wFRpbb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38911450968-s65r5p0pre0vcncrf6rnm4n85eend0ma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
